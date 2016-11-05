@@ -1,0 +1,34 @@
+html, body{
+margin: 0;
+
+}
+
+body{
+   color: white; 
+   background-color: gray;
+
+
+}
+.well{
+	background-color: black;
+	border: 2px solid white;
+	 
+}
+.btn-primary{
+	background-color: black;
+	border: 1px gray solid;
+}
+.btn-primary:hover{
+		background-color: black;
+	border: 1px white solid;
+}
+.btn-primary:focus{
+	background-color: black;
+	border: 1px white solid;
+
+}
+.tabela{
+	background-color: black;
+	border: 1px solid white;
+	
+}
