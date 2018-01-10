@@ -1,0 +1,1 @@
+Jedna z pierwszych stron internetowych jakie stworzyłem. Została stworzona na prośbę nauczyciela. Nauczyła mnie jak korzystać z bootstrapa oraz podstaw jquery. Z perspektywy czasu widzę jak daleka była od ideału ale każdy przecież kiedyś zaczynał :)
